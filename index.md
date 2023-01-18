@@ -40,6 +40,10 @@
      width: 32px;
   }
 
+  :site-footer {
+    visibility: hidden;
+  }
+
   /* Classic print trick! Show URLs! */
   @media (print) {
     a[href]::after {
