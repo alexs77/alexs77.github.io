@@ -1,4 +1,4 @@
-[![Alexander Skwar](contact-icons/Alexander-Skwar-Profilbild.jpeg)](http://a.skwar.me/)
+[![Alexander Skwar](contact-icons/Alexander-Skwar-Profilbild.jpeg)](http://a.skwar.xyz/)
 
 You can find me on the following sites, listed in order of preference (more or less…):
 
@@ -36,7 +36,7 @@ I also exist on the following sites, but aren't really active there.
 - ![Unknown](contact-icons/Unknown.png) Probably a lot more :)
 
 [Keybase]: https://keybase.io/alexs77
-[Mastodon]: https://det.social/@alexs77
+[Mastodon]: https://mas.to/@alexs77
 [Twitter]: https://twitter.com/alexs77
 [Telegram]: https://t.me/alexs_77
 [tutti]: https://www.tutti.ch/de/seller?id=6508134207540830929
