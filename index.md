@@ -49,11 +49,7 @@
 
 </style>
 
-# Alexander Skwar
-
 [![Alexander Skwar](contact-icons/Alexander-Skwar-Profilbild.jpeg)](http://a.skwar.me/)
-
-How to contact me.
 
 You can find me on the following sites, listed in order of preference (more or less…):
 
@@ -76,11 +72,11 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Munzee](contact-icons/Munzee-favicon.ico) Munzee: [alexs77][Munzee]
 - ![Geocaching](contact-icons/Geocaching-favicon.ico) Geocaching: [AlexS77][Geocaching]
 
-## Disabled
+# Disabled
 
 - ![WhatsApp](contact-icons/no-whatsapp-messenger-32x32.png) **NO** WhatsApp (please use something else instead…)!
 
-## Inactive
+# Inactive
 
 I also exist on the following sites, but aren't really active there.
 
