@@ -40,7 +40,7 @@
      width: 32px;
   }
 
-  :site-footer {
+  .site-footer {
     visibility: hidden;
   }
 
