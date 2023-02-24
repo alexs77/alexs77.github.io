@@ -6,7 +6,6 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico) Telegram: [alexs_77][Telegram]
 - ![Threema](contact-icons/Threema-favicon.ico) Threema: [UUUUHF2S][Threema]
-- ![Signal](contact-icons/Signal-favicon.ico) Signal: [Alexander S][Signal]
 - ![Mastodon](contact-icons/Mastodon-favicon.ico) Mastodon: [@alexs77@mas.to][Mastodon]
 - ![Twitter](contact-icons/TwitterDodo-32x32.png) Twitter: [@alexs77][Twitter]
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
@@ -30,6 +29,7 @@ You can find me on the following sites, listed in order of preference (more or l
 
 I also exist on the following sites, but aren't really active there.
 
+- ![Signal](contact-icons/Signal-favicon.ico) Signal: [Alexander S][Signal]
 - ![Instagram](contact-icons/Instagram-favicon.ico) Instagram: [alews77][Insta]
 - ![Flickr](contact-icons/Flickr-favicon.ico) Flickr: [Alexander S. '77][Flickr]
 - ![Facebook](contact-icons/Facebook-favicon.ico) Facebook: [?][Facebook]
