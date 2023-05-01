@@ -2,6 +2,8 @@
 
 You can find me on the following sites, listed in order of preference (more or less…):
 
+- ![vcard](contact-icons/vcf-32.png) [vcard][vcard]: Add to contacts (Adressbuch)
+
 - ![Phone](contact-icons/telephone.png) Phone and SMS text messages: [+41 79 792 12 96][Phone]
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico) Telegram: [alexs_77][Telegram]
@@ -35,6 +37,11 @@ I also exist on the following sites, but aren't really active there.
 - ![Facebook](contact-icons/Facebook-favicon.ico) Facebook: [?][Facebook]
 - ![Unknown](contact-icons/Unknown.png) Probably a lot more :)
 
+# Other
+
+- [Vcf Icons erstellt von PIXARTIST - Flaticon][Flaticon-PIXARTIST]
+
+[vcard]: Alexander-Skwar-vcard.vcf
 [Bitbucket]: https://bitbucket.org/alexs77/
 [E-Mail]: mailto:a@skwar.me
 [Facebook]: https://…/
@@ -58,3 +65,5 @@ I also exist on the following sites, but aren't really active there.
 [Twitter]: https://twitter.com/alexs77
 [WhatsApp]: https://wa.me/41797921296
 [Xing]: https://www.xing.com/profile/Alexander_Skwar/
+
+[Flaticon-PIXARTIST]: https://www.flaticon.com/de/kostenlose-icons/vcf
