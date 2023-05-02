@@ -37,7 +37,7 @@ I also exist on the following sites, but aren't really active there.
 - ![Facebook](contact-icons/Facebook-favicon.ico) Facebook: [?][Facebook]
 - ![Unknown](contact-icons/Unknown.png) Probably a lot more :)
 
-# Other
+# Notes
 
 - [Vcf Icons erstellt von PIXARTIST - Flaticon][Flaticon-PIXARTIST]
 
