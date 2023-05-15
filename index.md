@@ -7,7 +7,8 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Phone](contact-icons/telephone.png) Phone and SMS text messages: [+41 79 792 12 96][Phone]
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico) Telegram: [alexs_77][Telegram]
-- ![Threema](contact-icons/Threema-favicon.ico) Threema: [UUUUHF2S][Threema] (Telegram much more prefered, better reachable there)
+- ![Threema](contact-icons/Threema-favicon.ico) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
+- ![Signal](contact-icons/Signal-favicon.ico) Signal: [Alexander S][Signal] (Signal also doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
 - ![Mastodon](contact-icons/Mastodon-favicon.ico) Mastodon: [@alexs77@mas.to][Mastodon]
 - ![Twitter](contact-icons/TwitterDodo-32x32.png) Twitter: [@alexs77][Twitter]
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
@@ -21,7 +22,6 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Bitbucket](contact-icons/Bitbucket-favicon.ico) Bitbucket: [alexs77][Bitbucket]
 - ![Munzee](contact-icons/Munzee-favicon.ico) Munzee: [alexs77][Munzee]
 - ![Geocaching](contact-icons/Geocaching-favicon.ico) Geocaching: [AlexS77][Geocaching]
-- ![Signal](contact-icons/Signal-favicon.ico) Signal: [Alexander S][Signal]
 
 # Disabled
 
