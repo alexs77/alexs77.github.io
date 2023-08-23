@@ -6,22 +6,22 @@ You can find me on the following sites, listed in order of preference (more or l
 
 - ![Phone](contact-icons/telephone.png) Phone and SMS text messages: [+41 79 792 12 96][Phone]
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
-- ![Telegram](contact-icons/Telegram-favicon.ico) Telegram: [alexs_77][Telegram]
-- ![Threema](contact-icons/Threema-favicon.ico) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
-- ![Signal](contact-icons/Signal-favicon.ico) Signal: [Alexander S][Signal] (Signal also doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
-- ![Mastodon](contact-icons/Mastodon-favicon.ico) Mastodon: [@alexs77@mas.to][Mastodon]
+- ![Telegram](contact-icons/Telegram-favicon.ico.png) Telegram: [alexs_77][Telegram]
+- ![Threema](contact-icons/Threema-favicon.ico.png) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
+- ![Signal](contact-icons/Signal-favicon.ico.png) Signal: [Alexander S][Signal] (Signal also doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
+- ![Mastodon](contact-icons/Mastodon-favicon.ico.png) Mastodon: [@alexs77@mas.to][Mastodon]
 - ![Twitter](contact-icons/TwitterDodo-32x32.png) Twitter: [@alexs77][Twitter]
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
 - ![E-Mail](contact-icons/email.png) E-Mail: [a@skwar.me][E-Mail]
-- ![LinkedIn](contact-icons/LinkedIn-favicon.ico) LinkedIn: [Alexander Skwar][LinkedIn]
-- ![Xing](contact-icons/Xing-favicon.ico) Xing: [Alexander Skwar][Xing]
-- ![reddit](contact-icons/reddit-favicon.ico) reddit: [u/alexs77][reddit]
-- ![Quora](contact-icons/Quora-favicon.ico) Quora: [Alexander Skwar][Quora]
-- ![Github](contact-icons/Github-favicon.ico) Github: [alexs77][Github]
-- ![Gitlab](contact-icons/Gitlab-favicon.ico) Gitlab: [@alexs77][Gitlab]
-- ![Bitbucket](contact-icons/Bitbucket-favicon.ico) Bitbucket: [alexs77][Bitbucket]
-- ![Munzee](contact-icons/Munzee-favicon.ico) Munzee: [alexs77][Munzee]
-- ![Geocaching](contact-icons/Geocaching-favicon.ico) Geocaching: [AlexS77][Geocaching]
+- ![LinkedIn](contact-icons/LinkedIn-favicon.ico.png) LinkedIn: [Alexander Skwar][LinkedIn]
+- ![Xing](contact-icons/Xing-favicon.ico.png) Xing: [Alexander Skwar][Xing]
+- ![reddit](contact-icons/reddit-favicon.ico.png) reddit: [u/alexs77][reddit]
+- ![Quora](contact-icons/Quora-favicon.ico.png) Quora: [Alexander Skwar][Quora]
+- ![Github](contact-icons/Github-favicon.ico.png) Github: [alexs77][Github]
+- ![Gitlab](contact-icons/Gitlab-favicon.ico.png) Gitlab: [@alexs77][Gitlab]
+- ![Bitbucket](contact-icons/Bitbucket-favicon.ico.png) Bitbucket: [alexs77][Bitbucket]
+- ![Munzee](contact-icons/Munzee-favicon.ico.png) Munzee: [alexs77][Munzee]
+- ![Geocaching](contact-icons/Geocaching-favicon.ico.png) Geocaching: [AlexS77][Geocaching]
 
 # Disabled
 
@@ -31,10 +31,10 @@ You can find me on the following sites, listed in order of preference (more or l
 
 I also exist on the following sites, but aren't really active there.
 
-- ![Keybase](contact-icons/Keybase-favicon.ico) Keybase: [alexs77][Keybase]
-- ![Instagram](contact-icons/Instagram-favicon.ico) Instagram: [alews77][Insta]
-- ![Flickr](contact-icons/Flickr-favicon.ico) Flickr: [Alexander S. '77][Flickr]
-- ![Facebook](contact-icons/Facebook-favicon.ico) Facebook: [?][Facebook]
+- ![Keybase](contact-icons/Keybase-favicon.ico.png) Keybase: [alexs77][Keybase]
+- ![Instagram](contact-icons/Instagram-favicon.ico.png) Instagram: [alews77][Insta]
+- ![Flickr](contact-icons/Flickr-favicon.ico.png) Flickr: [Alexander S. '77][Flickr]
+- ![Facebook](contact-icons/Facebook-favicon.ico.png) Facebook: [?][Facebook]
 - ![Unknown](contact-icons/Unknown.png) Probably a lot more :)
 
 # Notes
