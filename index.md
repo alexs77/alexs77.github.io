@@ -7,10 +7,8 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Phone](contact-icons/telephone.png) Phone and SMS text messages: [+41 79 792 12 96][Phone]
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico.png) Telegram: [alexs_77][Telegram]
-- ![Threema](contact-icons/Threema-favicon.ico.png) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
-- ![Signal](contact-icons/Signal-favicon.ico.png) Signal: [Alexander S][Signal] (Signal also doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
-- ![Mastodon](contact-icons/Mastodon-favicon.ico.png) Mastodon: [@alexs77@mas.to][Mastodon]
-- ![Twitter](contact-icons/TwitterDodo-32x32.png) Twitter: [@alexs77][Twitter]
+- ![Twitter](contact-icons/TwitterDodo-32x32.png) X (formerly known as Twitter): [@alexs77][Twitter]
+- ![Bluesky](contact-icons/Bluesky.webp.png.32.png) Bluesky: [@alexs77.bsky.app][Bluesky]
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
 - ![E-Mail](contact-icons/email.png) E-Mail: [a@skwar.me][E-Mail]
 - ![LinkedIn](contact-icons/LinkedIn-favicon.ico.png) LinkedIn: [Alexander Skwar][LinkedIn]
@@ -22,6 +20,9 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Bitbucket](contact-icons/Bitbucket-favicon.ico.png) Bitbucket: [alexs77][Bitbucket]
 - ![Munzee](contact-icons/Munzee-favicon.ico.png) Munzee: [alexs77][Munzee]
 - ![Geocaching](contact-icons/Geocaching-favicon.ico.png) Geocaching: [AlexS77][Geocaching]
+- ![Mastodon](contact-icons/Mastodon-favicon.ico.png) Mastodon: [@alexs77@mas.to][Mastodon]
+- ![Threema](contact-icons/Threema-favicon.ico.png) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
+- ![Signal](contact-icons/Signal-favicon.ico.png) Signal: [Alexander S][Signal] (Signal also doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
 
 # Disabled
 
@@ -65,5 +66,6 @@ I also exist on the following sites, but aren't really active there.
 [Twitter]: https://twitter.com/alexs77
 [WhatsApp]: https://wa.me/41797921296
 [Xing]: https://www.xing.com/profile/Alexander_Skwar/
+[Bluesky]: https://bsky.app/profile/alexs77.bsky.social
 
 [Flaticon-PIXARTIST]: https://www.flaticon.com/de/kostenlose-icons/vcf
