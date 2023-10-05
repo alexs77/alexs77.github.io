@@ -8,7 +8,7 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico.png) Telegram: [alexs_77][Telegram]
 - ![Twitter](contact-icons/TwitterDodo-32x32.png) X (formerly known as Twitter): [@alexs77][Twitter]
-- ![Bluesky](contact-icons/Bluesky.webp.png.32.png) Bluesky: [@alexs77.foobar.vip][Bluesky] (alt: [@alexs77.bsky.app][Bluesky Alt]
+- ![Bluesky](contact-icons/Bluesky.webp.png.32.png) Bluesky: [@alexs77.foobar.vip][Bluesky] (alt: [@alexs77.bsky.app][Bluesky Alt])
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
 - ![E-Mail](contact-icons/email.png) E-Mail: [a@skwar.me][E-Mail]
 - ![LinkedIn](contact-icons/LinkedIn-favicon.ico.png) LinkedIn: [Alexander Skwar][LinkedIn]
