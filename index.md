@@ -7,8 +7,7 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Phone](contact-icons/telephone.png) Phone and SMS text messages: [+41 79 792 12 96][Phone]
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico.png) Telegram: [alexs_77][Telegram]
-- ![Twitter](contact-icons/TwitterDodo-32x32.png) X (formerly known as Twitter): [@alexs77][Twitter]
-- ![Bluesky](contact-icons/Bluesky.webp.png.32.png) Bluesky: [@alexs77.foobar.vip][Bluesky] (alt: [@alexs77.bsky.social][Bluesky Alt])
+- ![Bluesky](contact-icons/Bluesky.webp.png.32.png) Bluesky: [@alexs77.foobar.vip][Bluesky] (old: [@alexs77.bsky.social][Bluesky Alt])
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
 - ![E-Mail](contact-icons/email.png) E-Mail: [a@skwar.me][E-Mail]
 - ![LinkedIn](contact-icons/LinkedIn-favicon.ico.png) LinkedIn: [Alexander Skwar][LinkedIn]
@@ -21,11 +20,12 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Munzee](contact-icons/Munzee-favicon.ico.png) Munzee: [alexs77][Munzee]
 - ![Geocaching](contact-icons/Geocaching-favicon.ico.png) Geocaching: [AlexS77][Geocaching]
 - ![Mastodon](contact-icons/Mastodon-favicon.ico.png) Mastodon: [@alexs77@mas.to][Mastodon]
-- ![Threema](contact-icons/Threema-favicon.ico.png) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
+- ![Threema](contact-icons/Threema-favicon.ico.png) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead! Okay as a fallback.)
 - ![Signal](contact-icons/Signal-favicon.ico.png) Signal: [Alexander S][Signal] (Signal also doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
 
 # Disabled
 
+- ![Twitter](contact-icons/TwitterDodo-32x32.png) X (formerly known as Twitter): [@alexs77][Twitter] 👈🏼 Account locked since 2023-10-05!
 - ![WhatsApp](contact-icons/no-whatsapp-messenger-32x32.png) **NO** WhatsApp (please use something else instead…)!
 
 # Inactive
