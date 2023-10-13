@@ -7,7 +7,7 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Phone](contact-icons/telephone.png) Phone and SMS text messages: [+41 79 792 12 96][Phone]
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico.png) Telegram: [alexs_77][Telegram]
-- ![Bluesky](contact-icons/Bluesky.webp.png.32.png) Bluesky: [@alexs77.foobar.vip][Bluesky] (old: [@alexs77.bsky.social][Bluesky Alt])
+- ![Bluesky](contact-icons/Bluesky.webp.png.32.png) Bluesky: [@alexs77.rodeo][Bluesky] (old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt]))
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
 - ![E-Mail](contact-icons/email.png) E-Mail: [a@skwar.me][E-Mail]
 - ![LinkedIn](contact-icons/LinkedIn-favicon.ico.png) LinkedIn: [Alexander Skwar][LinkedIn]
@@ -66,7 +66,8 @@ I also exist on the following sites, but aren't really active there.
 [Twitter]: https://twitter.com/alexs77
 [WhatsApp]: https://wa.me/41797921296
 [Xing]: https://www.xing.com/profile/Alexander_Skwar/
-[Bluesky]: https://bsky.app/profile/alexs77.foobar.vip
-[Bluesky Alt]: https://bsky.app/profile/alexs77.bsky.social
+[Bluesky]: https://bsky.app/profile/alexs77.rodeo
+[Bluesky Alt]: https://bsky.app/profile/alexs77.foobar.vip
+[Bluesky Total Alt]: https://bsky.app/profile/alexs77.bsky.social
 
 [Flaticon-PIXARTIST]: https://www.flaticon.com/de/kostenlose-icons/vcf
