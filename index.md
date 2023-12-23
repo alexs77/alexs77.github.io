@@ -7,8 +7,8 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Phone](contact-icons/telephone.png) Phone and SMS text messages: [+41 79 792 12 96][Phone]
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico.png) Telegram: [alexs_77][Telegram]
-- ![Bluesky](contact-icons/Bluesky.webp.png.32.png) Bluesky: [@alexs77.rodeo][Bluesky] (old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt]))
-- ![Threads](contact-icons/Threads-favicon.svg) Threads: [@alews77][Threads]
+- ![Bluesky](contact-icons/Bluesky.favicon-32x32.png) Bluesky: [@alexs77.rodeo][Bluesky] (old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt]))
+- ![Threads](contact-icons/Threads-favicon.png) Threads: [@alews77][Threads]
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
 - ![E-Mail](contact-icons/email.png) E-Mail: [a@skwar.me][E-Mail]
 - ![LinkedIn](contact-icons/LinkedIn-favicon.ico.png) LinkedIn: [Alexander Skwar][LinkedIn]
