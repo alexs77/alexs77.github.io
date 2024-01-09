@@ -73,6 +73,6 @@ I also exist on the following sites, but aren't really active there.
 [Bluesky]: https://bsky.alexs77.rodeo
 [Bluesky Alt]: https://bsky.app/profile/alexs77.foobar.vip
 [Bluesky Total Alt]: https://bsky.app/profile/alexs77.bsky.social
-[Thrads]: https://www.threads.net/@alews77
+[Threads]: https://www.threads.net/@alews77
 
 [Flaticon-PIXARTIST]: https://www.flaticon.com/de/kostenlose-icons/vcf
