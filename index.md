@@ -8,7 +8,6 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico.png) Telegram: [alexs_77][Telegram]
 - ![Bluesky](contact-icons/Bluesky.favicon-32x32.png) Bluesky: [@alexs77.rodeo][Bluesky] (old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt]))
-- ![Threads](contact-icons/Threads-favicon.png) Threads: [@alews77][Threads]
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
 - ![E-Mail](contact-icons/email.png) E-Mail: [a@skwar.me][E-Mail]
 - ![LinkedIn](contact-icons/LinkedIn-favicon.ico.png) LinkedIn: [Alexander Skwar][LinkedIn]
@@ -32,9 +31,10 @@ You can find me on the following sites, listed in order of preference (more or l
 
 I also exist on the following sites, but aren't really active there.
 
-- ![Keybase](contact-icons/Keybase-favicon.ico.png) Keybase: [alexs77][Keybase]
 - ![Instagram](contact-icons/Instagram-favicon.ico.png) Instagram: [alews77][Insta]
+- ![Keybase](contact-icons/Keybase-favicon.ico.png) Keybase: [alexs77][Keybase]
 - ![Flickr](contact-icons/Flickr-favicon.ico.png) Flickr: [Alexander S. '77][Flickr]
+- ![Threads](contact-icons/Threads-favicon.png) Threads: [@alews77][Threads] — impossible to delete just Threads 😞
 - ![Facebook](contact-icons/Facebook-favicon.ico.png) Facebook: [?][Facebook]
 - ![Unknown](contact-icons/Unknown.png) Probably a lot more :)
 
