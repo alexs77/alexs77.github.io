@@ -7,21 +7,17 @@ You can find me on the following sites, listed in order of preference (more or l
 - ![Phone](contact-icons/telephone.png) Phone and SMS text messages: [+41 79 792 12 96][Phone]
 - ![Snail mail](contact-icons/snail.png) Snail mail: [Hörnlistrasse 4, 8400 Winterthur, Switzerland][Snail] [Map ///frohe.tuch.inseln][Snail]
 - ![Telegram](contact-icons/Telegram-favicon.ico.png) Telegram: [alexs_77][Telegram]
-- ![Bluesky](contact-icons/Bluesky.favicon-32x32.png) Bluesky: [@alexs77.rodeo][Bluesky] (old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt]))
 - ![tutti](contact-icons/Tutti-favicon.png) Tutti: [Alexander Skwar][tutti]
 - ![E-Mail](contact-icons/email.png) E-Mail: [a@skwar.me][E-Mail]
 - ![LinkedIn](contact-icons/LinkedIn-favicon.ico.png) LinkedIn: [Alexander Skwar][LinkedIn]
 - ![Xing](contact-icons/Xing-favicon.ico.png) Xing: [Alexander Skwar][Xing]
 - ![reddit](contact-icons/reddit-favicon.ico.png) reddit: [u/alexs77][reddit]
 - ![Quora](contact-icons/Quora-favicon.ico.png) Quora: [Alexander Skwar][Quora]
-- ![Github](contact-icons/Github-favicon.ico.png) Github: [alexs77][Github]
-- ![Gitlab](contact-icons/Gitlab-favicon.ico.png) Gitlab: [@alexs77][Gitlab]
+- ![Github](contact-icons/Github-favicon.ico.png) GitHub: [alexs77][Github]
+- ![Gitlab](contact-icons/Gitlab-favicon.ico.png) GitLab: [@alexs77][Gitlab]
 - ![Bitbucket](contact-icons/Bitbucket-favicon.ico.png) Bitbucket: [alexs77][Bitbucket]
 - ![Munzee](contact-icons/Munzee-favicon.ico.png) Munzee: [alexs77][Munzee]
 - ![Geocaching](contact-icons/Geocaching-favicon.ico.png) Geocaching: [AlexS77][Geocaching]
-- ![Mastodon](contact-icons/Mastodon-favicon.ico.png) Mastodon: [@alexs77@mas.to][Mastodon]
-- ![Threema](contact-icons/Threema-favicon.ico.png) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead! Okay as a fallback.)
-- ![Signal](contact-icons/Signal-favicon.ico.png) Signal: [Alexander S][Signal] (Signal also doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
 
 # Disabled
 
@@ -31,6 +27,10 @@ You can find me on the following sites, listed in order of preference (more or l
 
 I also exist on the following sites, but aren't really active there.
 
+- ![Mastodon](contact-icons/Mastodon-favicon.ico.png) Mastodon: [@alexs77@mas.to][Mastodon]
+- ![Threema](contact-icons/Threema-favicon.ico.png) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead! Okay as a fallback.)
+- ![Signal](contact-icons/Signal-favicon.ico.png) Signal: [Alexander S][Signal] (Signal also doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
+- ![Bluesky](contact-icons/Bluesky.favicon-32x32.png) Bluesky: [@alexs77.rodeo][Bluesky] (old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt]))
 - ![Instagram](contact-icons/Instagram-favicon.ico.png) Instagram: [alews77][Insta]
 - ![Keybase](contact-icons/Keybase-favicon.ico.png) Keybase: [alexs77][Keybase]
 - ![Flickr](contact-icons/Flickr-favicon.ico.png) Flickr: [Alexander S. '77][Flickr]
