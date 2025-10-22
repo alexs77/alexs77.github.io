@@ -1,4 +1,4 @@
-[![Alexander Skwar](contact-icons/Alexander-Skwar-Portrait-Photos-1.400x400.jpg)](http://a.skwar.xyz/)
+[![Alexander Skwar](contact-icons/Alexander-Skwar-Portrait-Photos-1_400_77.jpg)](http://a.skwar.xyz/)
 
 You can find me on the following sites, listed in order of preference:
 
