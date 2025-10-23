@@ -38,7 +38,7 @@ I also exist on the following sites, but aren't really active there.
 
 # No more
 
-- ![Bluesky](contact-icons/Bluesky.favicon-32x32.png) Bluesky: [@alexs77.rodeo][Bluesky] (Became too much like X. old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt]))
+- ![Bluesky](contact-icons/Bluesky.favicon-32x32.png) Bluesky: [@alexs77.rodeo][Bluesky] (Became too much like X. old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt])) Account removed on 2025-10-23.
 - ![reddit](contact-icons/reddit-favicon.ico.png) reddit: [u/alexs77][reddit]
 - ![Twitter](contact-icons/TwitterDodo-32x32.png) X (formerly known as Twitter): [@alexs77][Twitter] 👈🏼 Account disabled since 2023-12-14!
 
