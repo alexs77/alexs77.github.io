@@ -29,7 +29,6 @@ I also exist on the following sites, but aren't really active there.
 - ![Mastodon](contact-icons/Mastodon-favicon.ico.png) Mastodon: [@alexs77@mas.to][Mastodon]
 - ![Threema](contact-icons/Threema-favicon.ico.png) Threema: [UUUUHF2S][Threema] (Threema doesn't work well enough for me. Please use [Telegram][Telegram] instead! Okay as a fallback.)
 - ![Signal](contact-icons/Signal-favicon.ico.png) Signal: [Alexander S][Signal] (Signal also doesn't work well enough for me. Please use [Telegram][Telegram] instead!)
-- ![Bluesky](contact-icons/Bluesky.favicon-32x32.png) Bluesky: [@alexs77.rodeo][Bluesky] (old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt]))
 - ![Instagram](contact-icons/Instagram-favicon.ico.png) Instagram: [alews77][Insta]
 - ![Keybase](contact-icons/Keybase-favicon.ico.png) Keybase: [alexs77][Keybase]
 - ![Flickr](contact-icons/Flickr-favicon.ico.png) Flickr: [Alexander S. '77][Flickr]
@@ -39,6 +38,7 @@ I also exist on the following sites, but aren't really active there.
 
 # No more
 
+- ![Bluesky](contact-icons/Bluesky.favicon-32x32.png) Bluesky: [@alexs77.rodeo][Bluesky] (Became too much like X. old: [@alexs77.foobar.vip][Bluesky Alt] (really old: [@alexs77.bsky.social][Bluesky Total Alt]))
 - ![reddit](contact-icons/reddit-favicon.ico.png) reddit: [u/alexs77][reddit]
 - ![Twitter](contact-icons/TwitterDodo-32x32.png) X (formerly known as Twitter): [@alexs77][Twitter] 👈🏼 Account disabled since 2023-12-14!
 
